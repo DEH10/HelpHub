@@ -1,6 +1,8 @@
-# HelpHub.com (Coming Soon to a city nearest you)
+# final-project-Pt.2-DEH10
 
-(Still coding some of the features and elements to make it look better! Its a Work in progress, but the Website works like a normal website (e.g. Homepage link, Homepage2 link, AboutUs link, Contact section, App store button, Google Play button, Charities List page., Charity Profile page, Volunteer Now button, Volunteer info page, Google map and user information typing.. etc):
+Final-Project Prototype Presentations with HTML, CSS and Javascript embedded files:
+
+(Website works like a normal website (e.g. Homepage link, Homepage2 link, AboutUs link, Contact section, App store button, Google Play button, Charities List page., Charity Profile page, Volunteer Now button, Volunteer info page, Google map and user information typing.. etc):
 
 /* Contact Section */
 
