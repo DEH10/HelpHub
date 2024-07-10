@@ -25,3 +25,6 @@ Accessibility and Navigation:
 - The website and its framework allow smooth scrolling to the appropriate page or sections for all links.
 
 Click the link here to use the websites working prototype --> [![Homepage Wireframe](https://img.shields.io/badge/Help-Hub-gold)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8Kle1LgqQFc3J&canvasId=rcU8Kle1TpAyPOKL)
+
+![image](https://github.com/DEH10/HelpHub/assets/156702447/d8ff7c79-98e7-40f0-869d-d89a709b3168)
+
